@@ -1,0 +1,9 @@
+{
+  "name": "sketch-word-counter",
+  "version": "1.0.0",
+  "description": "[experimental] sketchファイルのワードカウント",
+  "main": "index.js",
+  "repository": "https://github.com/gcoka/sketch-word-counter.git",
+  "author": "gcoka <y.okamoto@gemcook.com>",
+  "license": "MIT"
+}
